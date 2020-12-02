@@ -1,0 +1,17 @@
+body{
+
+}
+
+.weak{
+  font-family: monospace;
+  font-style: italic;
+  font-size: 0.8em;
+}
+
+.caps{
+  text-transform: uppercase;
+}
+
+.text-blue{
+  color: blue;
+}
